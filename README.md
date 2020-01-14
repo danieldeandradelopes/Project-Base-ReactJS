@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This a base project with ReactJS
 
-## Available Scripts
+![](https://lh3.googleusercontent.com/a-/AAuE7mBJIVJE8a3rkWTnNtJwgXnhE9SvyyFvAaD578QrRQ=s120-p-rw-no)
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Here is configuring Editorconfig, ESLINT and Prettier.
 
-### `yarn test`
+In this repository I Leave a base project for you that need a project all configuring.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See what you'll have on hands.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ReactJS
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<p align="center">
+  <img width="150" height="150" src="https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/reactjs.png">
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Eslint
+Look for warnings and errors in your project, it help you find errors.
+<p align="center">
+  <img width="150" height="150" src="https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/eslint.png">
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+The code:
 
-## Learn More
+![](https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/eslint-config.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Prettier:
+Formatter of code, it help you organize your code.
 
-### Analyzing the Bundle Size
+<p align="center">
+  <img width="150" height="150" src="https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/prettier.png">
+</p>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+The code:
 
-### Making a Progressive Web App
+![](https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/prettier-config.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
+### Editorconfig:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Pattern for your code with different editors.
+<p align="center">
+  <img width="150" height="150" src="https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/editorconfig.png">
+</p>
+
+
+The code:
+
+![](https://raw.githubusercontent.com/danieldeandradelopes/Project-Base-ReactJS/master/assets/editorconfig-config.png)
+
+
+
+## My website:
+##### https://jacode.com.br
+
+
+## My Linkedin
+##### https://www.linkedin.com/in/daniel-de-andrade-lopes-5242b4b1/
+
